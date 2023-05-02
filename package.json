@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bootstrap-icons": "^1.10.5",
+    "sweetalert2": "^11.7.3",
+    "toastify-js": "^1.12.0"
+  }
+}
