@@ -20,7 +20,7 @@ const personas = [
   },
   {
     nombre: "Mauri",
-    edad: 25,
+    edad: 64,
     foto: "./assets/mauri.jpg",
   },
   {
