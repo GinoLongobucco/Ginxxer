@@ -1,0 +1,27 @@
+[
+    {
+      "nombre": "Javi",
+      "edad": 52,
+      "foto": "./assets/javi.png"
+    },
+    {
+      "nombre": "Horacio",
+      "edad": 57,
+      "foto": "./assets/larreta.png"
+    },
+    {
+      "nombre": "Mauri",
+      "edad": 64,
+      "foto": "./assets/mauri.jpg"
+    },
+    {
+      "nombre": "Máximo",
+      "edad": 46,
+      "foto": "./assets/maximo.jpg"
+    },
+    {
+      "nombre": "Albert",
+      "edad": 64,
+      "foto": "./assets/albert.png"
+    }
+  ]
